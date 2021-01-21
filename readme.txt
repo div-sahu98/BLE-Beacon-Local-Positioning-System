@@ -16,3 +16,7 @@ https://yencarnacion.github.io/eddystone-url-calculator/
 download OS form
 
 https://www.raspberrypi.org/software/operating-systems/
+
+beacon.rar is a becon scanner apk run in any anroid phone above 4.4 kitkat use anroid studios ans data is shown at log table the reciver will (mobile) will recive signal in a interval of 20seconds
+
+
